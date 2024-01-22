@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<picture>
-  <img src="github-readme-stats-orcin-alpha.vercel.app/api?xAustinn=anuraghazra&show_icons=true" />
-</picture>
+<details>
+  <img allign="left" src="https://github-readme-stats-orcin-alpha.vercel.app/api?xAustinn=anuraghazra&show_icons=true" />
+</details>
