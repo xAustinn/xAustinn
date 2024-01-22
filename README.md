@@ -28,6 +28,5 @@ Here are some ideas to get you started:
 ### ⚙️GitHub Stats
 <picture>
   <img allign="left" src="https://github-readme-stats-orcin-alpha.vercel.app/api?username=xAustinn&show_icons=true" />
-  <img allign="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xAustinn&show_icons=true" />
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xAustinn7&layout=compact)](https://github.com/yushi1007)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/yushi1007)
 </picture>
