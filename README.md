@@ -1,5 +1,11 @@
-### Welcome To My GitHub
+### Welcome To My GitHub Rep
+My name is Austin, at the moment I enjoy working on FiveM scripts and hope to move into more fullstack dev applications and am currently working on mastering javascript. I hope 
+to also make some Discord bots in the near future. I also hope on realising some public projects soon!
 
+## Projects:
+- None Public Yet
+
+## Languages:
 <!--
 **xAustinn/xAustinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
