@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <picture>
-  <img src="github-readme-stats-orcin-alpha.vercel.app/api?username=anuraghazra&show_icons=true" />
+  <img src="github-readme-stats-orcin-alpha.vercel.app/api?xAustinn=anuraghazra&show_icons=true" />
 </picture>
