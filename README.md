@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<picture>
+  <img src="github-readme-stats-orcin-alpha.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
