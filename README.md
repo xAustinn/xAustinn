@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <details>
-  <img allign="left" src="https://github-readme-stats-orcin-alpha.vercel.app/api?xAustinn=anuraghazra&show_icons=true" />
+  <img allign="left" src="https://github-readme-stats-orcin-alpha.vercel.app/api?username=xAustinn&show_icons=true" />
 </details>
