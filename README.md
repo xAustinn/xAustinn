@@ -1,4 +1,4 @@
-## Hello My Name Is Austin
+## Hello! Im Austin 👋
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 
 ### Welcome To My GitHub Rep
