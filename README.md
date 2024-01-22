@@ -1,5 +1,6 @@
 ## Hello! Im Austin 👋
 ![Discord](https://discord.gg/NVhMrrVhxU)
+![Discord](discord.gg/NVhmrrVhxU?style=for-the-badge&logo=discord&logoColor=white)
 
 ### Welcome To My GitHub Rep
 
