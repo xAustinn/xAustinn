@@ -1,4 +1,5 @@
 ### Welcome To My GitHub Rep
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 My name is Austin, at the moment I enjoy working on FiveM scripts and hope to move into more fullstack dev applications and am currently working on mastering javascript. I hope 
 to also make some Discord bots in the near future. I also hope on realising some public projects soon!
 
