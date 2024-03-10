@@ -13,7 +13,7 @@ to also make some Discord bots in the near future. I also hope on realising some
 
 ## Projects:
 <div>
-  <a href="https://clrp.info">CLRP Website</a>
+  <a href="https://clrp.info" target="_blank">CLRP Website</a>
 </div>
 
 ## Work In Progress:
