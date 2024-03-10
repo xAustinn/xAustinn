@@ -27,6 +27,6 @@ Here are some ideas to get you started:
 
 ### ⚙️GitHub Stats
 <div>
-  <img src="https://streak-stats.demolab.com/?user=xAustinn">
-  <img src="https://github-readme-stats-orcin-alpha.vercel.app/api/?username=xAustinn&show_icons=true&border-radius=10&size_weight=0.5&count_weight=0.5&rank_icon=github" />
+  <img width=415 src="https://streak-stats.demolab.com/?user=xAustinn">
+  <img width=390 src="https://github-readme-stats-orcin-alpha.vercel.app/api/?username=xAustinn&show_icons=true&border-radius=10&size_weight=0.5&count_weight=0.5&rank_icon=github" />
 </div>
