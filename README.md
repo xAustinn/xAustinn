@@ -18,7 +18,10 @@ to also make some Discord bots in the near future. I also hope on realising some
   <a href="https://clrp.info" target="_blank" rel="noopener noreferrer">CLRP Website</a>
 </li>
 <li>
-  Other private projects
+  <a href="https://github.com/xAustinn/FiveM-Notify">FiveM Notify</a>
+</li>
+<li>
+  <a>Other Private Projects</a>
 </li>
 </ul>
 </div>
