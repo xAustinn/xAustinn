@@ -27,8 +27,8 @@ to also make some Discord bots in the near future. I also hope on realising some
 </div>
 
 ## Work In Progress:
-- Custom Discord bot
-- Can't be named FiveM script
+- New Unique FiveM Script
+- Practicing
 
 ## Languages:
 
